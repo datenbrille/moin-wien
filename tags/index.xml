@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Moin Wien</title>
-    <link>http://moin-wien.at/tags/</link>
+    <link>https://datenbrille.github.io/moin-wien/tags/</link>
     <description>Recent content in Tags on Moin Wien</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     
-	<atom:link href="http://moin-wien.at/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://datenbrille.github.io/moin-wien/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

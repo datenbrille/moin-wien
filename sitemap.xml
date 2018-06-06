@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://moin-wien.at/categories/</loc>
+    <loc>https://datenbrille.github.io/moin-wien/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://moin-wien.at/</loc>
+    <loc>https://datenbrille.github.io/moin-wien/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://moin-wien.at/tags/</loc>
+    <loc>https://datenbrille.github.io/moin-wien/tags/</loc>
     <priority>0</priority>
   </url>
   
