@@ -1,0 +1,5 @@
+baseURL = "http://moin-wien.at/"
+languageCode = "de-de"
+title = "Moin Wien"
+theme = "tracks"
+style = "default"
