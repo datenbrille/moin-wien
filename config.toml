@@ -1,4 +1,4 @@
-baseURL = "http://moin-wien.at/"
+baseURL = "https://datenbrille.github.io/moin-wien/"
 languageCode = "de-de"
 title = "Moin Wien"
 theme = "tracks"
